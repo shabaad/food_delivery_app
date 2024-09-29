@@ -26,16 +26,19 @@ Navigate to the Project Directory:
 Change the working directory to the root of the Flutter project:
 
 cd food_delivery_app
+
 Install Dependencies:
 
 Run the following command to install the required dependencies:
 
 flutter pub get
+
 Run the App on an Emulator or Device:
 
 To run the app on an emulator or a physical device, use the following command:
 
 flutter run
+
 Make sure you have a connected emulator or device.
 
 To run the app on Android:
